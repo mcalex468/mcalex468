@@ -1,15 +1,16 @@
-# Hey! I am Alex
+# Hey! I am Alex Martin
 
-## Fullstack Developer
+## New Developer
 
-![Banner](Captura%20de%20pantalla%20de%202025-04-09%2008-21-05.png)
+![Banner](alex.png)
 
 ---
 
 ## Hi, I'm Alex! 👋
 
-- 🛠️ I'm currently studying **DAWe (Desarrollo de Aplicaciones Web)** at **Institut Tecnològic de Barcelona (ITB)**
+- 🛠️ I'm currently studying **DAWe (Desarrollo de Aplicaciones Web entons mòbils)** at **Institut Tecnològic de Barcelona (ITB)**
 - ⚽ Passionate about **sports** and **technology**
+-    
 
 ---
 
