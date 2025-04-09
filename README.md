@@ -9,8 +9,9 @@
 ## Hi, I'm Alex! 👋
 
 - 🛠️ I'm currently studying **DAWe (Desarrollo de Aplicaciones Web entons mòbils)** at **Institut Tecnològic de Barcelona (ITB)**
-- ⚽ Passionate about **sports** and **technology**
--    
+- ⚽ Passionate about **sports**, **technology**, and **investments**
+- 📚 I love being **self-taught** and learning new things quickly
+- 🚀 I'm eager to **expand my knowledge in IT** and become a better developer every day
 
 ---
 
@@ -24,6 +25,9 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)
+![ElephantSQL](https://img.shields.io/badge/ElephantSQL-2D5DBE?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
