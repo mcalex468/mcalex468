@@ -2,10 +2,7 @@
 
 ## New Developer
 
-<div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/60dae2c9-e639-418b-b0a2-58bad135a225" width="600" style="border-radius: 15px; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
-</div>
-
+(![alex](https://github.com/user-attachments/assets/60dae2c9-e639-418b-b0a2-58bad135a225)
 ---
 
 ## Hi, I'm Alex! 👋
