@@ -10,10 +10,11 @@
 
 ## Hi, I'm Alex! 👋
 
-- 🛠️ I'm currently studying **DAWe (Desarrollo de Aplicaciones Web entons mòbils)** at **Institut Tecnològic de Barcelona (ITB)**
-- ⚽ Passionate about **sports**, **technology**, and **investments**
-- 📚 I love being **self-taught** and learning new things quickly
-- 🚀 I'm eager to **expand my knowledge in IT** and become a better developer every day
+- 🎓 I have completed **DAW (Desarrollo de Aplicaciones Web)**  
+- 🤖 Currently finishing a **Master in Data Science & Artificial Intelligence (May 2026)**  
+- ⚽ Passionate about **sports**, **technology**, and **investments**  
+- 📚 I enjoy being **self-taught** and continuously learning new skills  
+- 🚀 Focused on growing as a **full-stack & AI-oriented developer**
 
 ---
 
@@ -46,4 +47,4 @@
 📫 **Contact me:**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://alex-m-portfolio.vercel.app)
